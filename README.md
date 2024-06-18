@@ -33,6 +33,11 @@ cd jetpack-joyride-clone
 
 3.  Open the Project in Unity, Navigate to the Assets/Scenes folder in the Unity Editor. Open the 00_Menu.unity scene and play the Game.
 
+
+## Controlls!
+
+Press space to jump and hold to activate the jetpack
+
 ## Features I worked on
 
 🎮 Player Controller:
@@ -71,7 +76,7 @@ Animations:
 
 - Configured animations for both NPCs and the player character, ensuring smooth transitions and engaging visuals.
 
-## 📜 Credits
+## 📜 contributors
 - [@twdaviss](https://github.com/twdaviss)
 - [@LeahTaurisano](https://github.com/LeahTaurisano)
 - [@tSleepingDragon0](https://github.com/SleepingDragon0)

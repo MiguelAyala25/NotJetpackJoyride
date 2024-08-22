@@ -75,6 +75,11 @@ NPCs:
 Animations:
 
 - Configured animations for both NPCs and the player character, ensuring smooth transitions and engaging visuals.
+  
+Revive:
+
+- Created a revive mechanich with the unity built in ad system.
+
 
 ## 📜 contributors
 - [@twdaviss](https://github.com/twdaviss)
